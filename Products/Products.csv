@@ -1,1 +1,12 @@
 
+ProductID,ProductName,Category,SubCategory,UnitPrice
+P001,Laptop,Electronics,Computers,65000
+P002,Mouse,Electronics,Accessories,500
+P003,Keyboard,Electronics,Accessories,1200
+P004,Monitor,Electronics,Displays,12000
+P005,Office Chair,Furniture,Office,8500
+P006,Desk,Furniture,Office,12000
+P007,Notebook,Stationery,Paper,120
+P008,Pen,Stationery,Writing,20
+P009,Printer,Electronics,Printers,18000
+P010,Tablet,Electronics,Mobile Devices,30000
