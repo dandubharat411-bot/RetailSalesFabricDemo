@@ -1,1 +1,11 @@
-
+CustomerID,CustomerName,Gender,City,State,Segment
+C001,Rahul Sharma,Male,Bangalore,Karnataka,Consumer
+C002,Priya Reddy,Female,Hyderabad,Telangana,Corporate
+C003,Amit Kumar,Male,Chennai,Tamil Nadu,Consumer
+C004,Sneha Patel,Female,Mumbai,Maharashtra,Home Office
+C005,Arjun Rao,Male,Pune,Maharashtra,Corporate
+C006,Neha Singh,Female,Delhi,Delhi,Consumer
+C007,Vikram Das,Male,Kolkata,West Bengal,Corporate
+C008,Anjali Gupta,Female,Noida,Uttar Pradesh,Consumer
+C009,Rohan Verma,Male,Jaipur,Rajasthan,Home Office
+C010,Kavya Nair,Female,Kochi,Kerala,Consumer
